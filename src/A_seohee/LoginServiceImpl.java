@@ -2,6 +2,7 @@ package A_seohee;
 
 import A_yujin.LoginDB;
 import A_yujin.LoginService;
+import common.alert.AlertClass;
 import javafx.scene.Parent;
 import javafx.scene.control.TextField;
 import main.MemberDTO;
